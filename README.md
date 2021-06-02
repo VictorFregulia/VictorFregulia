@@ -4,11 +4,17 @@ I’m @VictorFregulia live in brazil, and i'm a programming student.
 
 - 🌱 I’m currently learning <strong> HTML, CSS, JAVASCRIPT... </strong>
 
-- 📫 How to reach me 
-<img src="Badgehttps://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> <a href="https://www.instagram.com/victorfregulias/"> click here </a>
+- 📫 How to reach me:
+
+-  <a href="https://www.instagram.com/victorfregulias/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+ 
+ 
  
 ![Victor Fregulia's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfregulia&show_icons=true&theme=dark)
+
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFregulia&layout=compact)](https://github.com/Victorregulia/github-readme-stats)
 
 
