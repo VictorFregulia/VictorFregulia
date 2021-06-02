@@ -6,8 +6,11 @@ I’m @VictorFregulia live in brazil, and i'm a programming student.
 
 - 📫 How to reach me 
 <img src="Badgehttps://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> <a href="https://www.instagram.com/victorfregulias/"> click here </a>
- <br>
+ 
 ![Victor Fregulia's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfregulia&show_icons=true&theme=dark)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFregulia&layout=compact)](https://github.com/Victorregulia/github-readme-stats)
+
 
 
 
