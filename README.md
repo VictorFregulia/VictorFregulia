@@ -1,5 +1,6 @@
-- 👋 Hi there, 
-I’m @VictorFregulia live in brazil, and i'm a programming student.
+<strong> 👋 Hi there, </strong>
+<br>
+    <p>I’m @VictorFregulia live in brazil, and i'm a programming student.</p>
  
 
 - 🌱 I’m currently learning <strong> HTML, CSS, JAVASCRIPT... </strong>
@@ -11,11 +12,8 @@ I’m @VictorFregulia live in brazil, and i'm a programming student.
  
  
  
-![Victor Fregulia's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfregulia&show_icons=true&theme=dark)
+![Victor Fregulia's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfregulia&show_icons=true&theme=dark) 
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFregulia&layout=compact)](https://github.com/Victorregulia/github-readme-stats)
 
 
 
