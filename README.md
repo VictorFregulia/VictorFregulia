@@ -8,6 +8,7 @@
 - 📫 How to reach me:
 
 -  <a href="https://www.instagram.com/victorfregulias/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+-  :wrench:	Development tools: <strong> VScode, Git and Github
 
  
  
